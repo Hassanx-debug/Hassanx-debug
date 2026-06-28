@@ -84,15 +84,6 @@ I don't just study development — I ship it. Five complete projects. Real users
 
 ---
 
-## 🌱 What I'm Building Next
-
-- 🌌 **Portfolio v2** — Next.js 14, GSAP, Framer Motion, Lenis smooth scroll, Admin CMS with Prisma + NextAuth
-- 📦 Adding **TypeScript** across all projects
-- 🧪 Learning **Redux Toolkit** for state management at scale
-- ✅ Studying **Agile/Scrum** practices for team collaboration
-
----
-
 ## 💬 Dev Philosophy
 
 > *"Ship it. Learn from it. Make it better."*
