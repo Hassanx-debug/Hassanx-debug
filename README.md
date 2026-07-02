@@ -33,7 +33,7 @@ I don't just study development — I ship it. Five complete projects. Real users
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
 | **FullCart** | Full-featured e-commerce platform with cart, auth, payments | React, Node.js, Express, MongoDB | [Repo](#) |
-| **DevConnect** | Developer social platform — posts, follows, profiles | MERN Stack, JWT Auth | [Repo](#) |
+| **DevConnect** | Developer social platform — posts, follows, profiles | MERN Stack, JWT Auth | [Repo](https://github.com/Hassanx-debug/DevConnect.git) |
 | **HireFlow** | Job board with employer/candidate dashboards | MERN Stack, REST API | [Repo](#) |
 | **QuickBite** | Food delivery app with real-time order tracking | React, Node.js, MongoDB | [Repo](https://github.com/Hassanx-debug/QuickBite.git) |
 | **TaskFlow** | Task management tool with drag-and-drop boards | MERN Stack, REST API | [Repo](#) |
