@@ -23,7 +23,6 @@ I don't just study development — I ship it. Five complete projects. Real users
 - 🏢 **Interning** at **Rox Capitals**, Islamabad — building production frontend
 - 🛠️ **MERN Stack** developer (MongoDB · Express · React · Node.js)
 - 🎓 **B.S. Computer Science** — Air University, Islamabad (2024–2028)
-- ⚡ Currently building a **Next.js 14 portfolio** with GSAP + Framer Motion
 - 🔍 Open to **MERN / Full Stack internships & junior roles**
 
 ---
