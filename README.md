@@ -1,96 +1,243 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=120§ion=header&text=Hassan%20Bin%20Nisar&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:06b6d4&height=220&section=header&text=Hassan%20Bin%20Nisar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20AI%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18" width="100%"/>
 
-# Hi, I'm Hassan 👋
+<a href="https://linkedin.com/in/hassanbinnisar">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Hassanx-debug">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:hassanair5858@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### Full Stack Developer · MERN Stack · CS Student @ Air University
+<br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hassan_Bin_Nisar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hassanbinnisar)
-[![GitHub](https://img.shields.io/badge/GitHub-Hassanx--debug-181717?style=flat&logo=github&logoColor=white)](https://github.com/Hassanx-debug)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-6366f1?style=flat&logo=vercel&logoColor=white)](http://haxsanz-portfolio.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=650&lines=Building+modern%2C+scalable+web+apps+%F0%9F%9A%80;MERN+Stack+%7C+Clean+Architecture;Integrating+AI+into+Real+Products+%F0%9F%A4%96;Open+to+Full-Time+%7C+Internship+%7C+Remote" alt="Typing SVG" />
+
+<br/>
+
+📍 **Islamabad, Pakistan** &nbsp;|&nbsp; 💼 **Open to Full-Time • Internship • Remote**
 
 </div>
 
----
+<br/>
 
-## 🧑‍💻 About Me
+## 💫 About Me
 
-I'm a **Computer Science student** at Air University Islamabad (graduating May 2028) and a **Frontend Developer intern** with hands-on experience building full-stack MERN applications that solve real problems.
+```yaml
+name: "Hassan Bin Nisar"
+role: "Full Stack MERN Developer"
+education: "Computer Science Student @ Air University"
+experience: "Intern @ Rox Capital"
+focus: ["React", "Node.js", "MongoDB", "AI Integration"]
+currently: "Building production-ready web apps that solve real-world problems"
+```
 
-I don't just study development — I ship it. Five complete projects. Real users. Real code.
+I'm a **Computer Science student at Air University**, passionate about building production-ready web applications that solve real-world problems.
 
-- 🏢 **Interning** at **Rox Capitals**, Islamabad — building production frontend
-- 🛠️ **MERN Stack** developer (MongoDB · Express · React · Node.js)
-- 🎓 **B.S. Computer Science** — Air University, Islamabad (2024–2028)
-- 🔍 Open to **MERN / Full Stack internships & junior roles**
+My primary focus is the **MERN Stack** — designing responsive user interfaces, developing scalable backend services, building secure REST APIs, and integrating modern AI capabilities into web applications.
 
----
+During my internship at **Rox Capital**, I gained hands-on experience developing business applications, reusable React components, and responsive interfaces in a professional development environment.
 
-## 🚀 Featured Projects
+Outside of coding, I'm constantly exploring emerging technologies, sharpening my engineering skills, and building projects that push me to grow every day.
 
-| Project | Description | Stack | Links |
-|--------|-------------|-------|-------|
-| **FullCart** | Full-featured e-commerce platform with cart, auth, payments | React, Node.js, Express, MongoDB | [Repo](#) |
-| **DevConnect** | Developer social platform — posts, follows, profiles | MERN Stack, JWT Auth | [Repo](https://github.com/Hassanx-debug/DevConnect.git) |
-| **HireFlow** | Job board with employer/candidate dashboards | MERN Stack, REST API | [Repo](#) |
-| **QuickBite** | Food delivery app with real-time order tracking | React, Node.js, MongoDB | [Repo](https://github.com/Hassanx-debug/QuickBite.git) |
-| **TaskFlow** | Task management tool with drag-and-drop boards | MERN Stack, REST API | [Repo](#) |
+<br/>
 
-> 🔗 **[View live demos →](https://github.com/Hassanx-debug)**
+## 🚀 What I Do
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Tech Stack
+✨ Build Full Stack MERN Applications
+⚡ Design Responsive & Modern UIs
+🔐 Develop Secure REST APIs & Auth Systems
+
+</td>
+<td width="50%">
+
+🤖 Integrate AI APIs into Web Applications
+📱 Craft High-Performance, Mobile-First Experiences
+🚀 Deploy Applications on Modern Cloud Platforms
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠 Tech Stack
+
+<div align="center">
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,bootstrap"/>
 
-**Database & Tools**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<br/><br/>
 
----
+**Backend & APIs**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br/><br/>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
+
+<br/><br/>
+
+**AI**
+
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-06B6D4?style=for-the-badge"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,vercel"/>
+
+</div>
+
+<br/>
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [FullCart](#)
+A complete MERN e-commerce platform featuring secure authentication, shopping cart, product management, payments, and an admin dashboard.
+
+`React` `Node.js` `Express` `MongoDB`
+
+🔗 *Repository Coming Soon*
+
+</td>
+<td width="50%" valign="top">
+
+### 👨‍💻 [DevConnect](https://github.com/Hassanx-debug/DevConnect)
+A developer-focused social networking platform with authentication, profiles, posts, comments, likes, and real-time interactions.
+
+`MERN` `JWT` `MongoDB`
+
+🔗 [View Repository](https://github.com/Hassanx-debug/DevConnect)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 [QuickBite](https://github.com/Hassanx-debug/QuickBite)
+A modern food ordering platform with responsive design, order management, and intuitive user experience.
+
+`React` `Node.js` `MongoDB`
+
+🔗 [View Repository](https://github.com/Hassanx-debug/QuickBite)
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 HireFlow
+A job portal connecting employers and developers with authentication, dashboards, and application management.
+
+`MERN Stack`
+
+🔗 *Repository Coming Soon*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ TaskFlow
+A productivity application for managing projects, tasks, and team collaboration with intuitive workflows.
+
+`MERN Stack`
+
+🔗 *Repository Coming Soon*
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+> More projects in the pipeline — check my GitHub for the latest 👇
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced_System_Design-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Next.js_Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD_Pipelines-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud_Deployment-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scalable_Backend-6366F1?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+## 🎯 2026 Goals
+
+- 🎯 Contribute to impactful production applications
+- 💼 Land a Full Stack Software Engineering role
+- 🌍 Build open-source projects
+- ⚙️ Master scalable backend development
+- ☁️ Learn cloud infrastructure and DevOps fundamentals
+
+<br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hassanx-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hassanx-debug&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Hassanx-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanx-debug&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanx-debug&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
+</div>
+
+<br/>
+
+## 💭 Developer Philosophy
+
+<div align="center">
+
+> *"Great software isn't just written — it is thoughtfully designed, carefully engineered, and continuously improved."*
+
+I believe every project is an opportunity to learn something new, refine my craft, and build software that creates meaningful value.
 
 </div>
 
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=Hassanx-debug&theme=tokyonight&hide_border=true" />
-</div>
+<br/>
 
----
-
-## 💬 Dev Philosophy
-
-> *"Ship it. Learn from it. Make it better."*
->
-> Every project I build is a production-minded exercise — not just tutorials, but real features, real auth, real databases, and real problems solved.
-
----
+## 🤝 Let's Connect
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=80§ion=footer" alt="footer" />
+
+<a href="mailto:hassanair5858@gmail.com"><img src="https://img.shields.io/badge/Email-hassanair5858%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/hassanbinnisar"><img src="https://img.shields.io/badge/LinkedIn-hassanbinnisar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Hassanx-debug"><img src="https://img.shields.io/badge/GitHub-Hassanx--debug-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+Thanks for visiting my profile! Feel free to explore my repositories, and if you find something interesting, don't hesitate to connect or collaborate. ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=100&section=footer" width="100%"/>
+
 </div>
